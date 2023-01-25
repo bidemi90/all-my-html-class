@@ -1,0 +1,79 @@
+table {
+    height: 1300px;
+    width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+td {
+    height: 100px;
+    width: 100px;
+    padding: 0;
+    margin: 0;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.red {
+    background-color: red;
+    height: 70px;
+    width: 20px;
+}
+
+
+.yellow {
+    background-color: yellow;
+    height: 70px;
+}
+
+
+.brown {
+    background-color: brown;
+    height: 70px;
+}
+
+
+.lightblue {
+    background-color: lightblue;
+    height: 70px;
+}
+
+.pink {
+    background-color: pink;
+    width: 60px;
+}
+
+
+.orange {
+    background-color: orange;
+    width: 60px;
+}
+
+
+.green {
+    background-color: green;
+    width: 60px;
+}
+
+
+.blue {
+    background-color: blue;
+    width: 60px;
+}
+
+
+img {
+    margin: 0;
+}
+
+.corner {
+    height: 160px;
+
+}
